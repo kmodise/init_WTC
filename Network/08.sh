@@ -1,0 +1,3 @@
+#!/bin/sh
+# Find the provider of slash16.org
+whois slash16.org | grep "Name Server"
