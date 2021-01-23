@@ -1,0 +1,4 @@
+# Explain how connect yourself as new user. (With graphic session and ssh session)
+
+# GUI -> Logout current user, login with new user by providing username and password
+# SSH -> ssh USERNAME@IP_ADDRESS, then enter user password

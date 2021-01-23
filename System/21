@@ -1,0 +1,2 @@
+# List all real users on the VM
+ls /home
