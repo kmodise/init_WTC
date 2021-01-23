@@ -1,0 +1,3 @@
+# Figure out the exact size of each folder of /var
+# using -h option with du provides results in Human Readable Format
+sudo du -sh /var/*
